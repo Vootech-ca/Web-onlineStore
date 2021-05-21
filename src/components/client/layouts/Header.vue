@@ -18,6 +18,10 @@
         <li class="nav-item">
         <router-link class="nav-link active" to="/about">دەربارە</router-link>
         </li>
+
+        <li>jhasj</li>
+
+       
         
        
 
